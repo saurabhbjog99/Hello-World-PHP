@@ -11,7 +11,7 @@ namespace Netex;
 
 class HelloWorldPHP
 {
-    const TOKEN_INPUT = 'Netex';
+    const TOKEN_INPUT = 'Test';
 
     public static $resultContent;
 
